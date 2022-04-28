@@ -4,35 +4,25 @@ h1 {
     color: #011132;
 }
 
-form {
-    border: 10px solid #011132;
-    padding: 10px;
-    background-color: white;
-    font-family: 'DIN Condensed', sans-serif;
-    color: #011132;
-}
-
-textarea {
-    width: 98%;
-    height: 200px;
-    margin: -0.1%;
-    border: 5px solid #011132;
-    color: inherit;
-}
-
-input, select {
-    border: 5px solid #011132;
-    font-family: inherit;
+a {
+    margin: 5px;
+    text-decoration: none;
+    font-weight: bold;
     color: inherit;
 }
 
 table {
-    margin-top: 25px;
+    width: 100%;
     border: 10px solid #011132;
     padding: 10px;
     background-color: white;
     font-family: 'DIN Condensed', sans-serif;
     color: #011132;
+}
+
+caption {
+    font-size: x-large;
+    font-weight: bold;
 }
 
 th, td {
@@ -49,11 +39,4 @@ footer {
     text-align: center;
     font-family: 'DIN Condensed', sans-serif;
     color: white;
-}
-
-footer > a {
-    margin: 5px;
-    font-weight: bold;
-    text-decoration: none;
-    color: inherit;
 }
