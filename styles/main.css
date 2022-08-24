@@ -32,6 +32,14 @@ th, td {
 
 }
 
+.media {
+    box-sizing: border-box;
+    width: 100%;
+    border: 10px solid #011132;
+    padding: 10px;
+    background-color: white;
+}
+
 footer {
     margin-top: 25px;
     padding: 25px;
