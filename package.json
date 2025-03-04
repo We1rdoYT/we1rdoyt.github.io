@@ -52,5 +52,20 @@
     "prettier-plugin-tailwindcss": "^0.6.11",
     "typescript": "~5.7.2",
     "typescript-eslint": "8.25.0"
-  }
+  },
+  "description": "Official Weirdo website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/We1rdoYT/we1rdoyt.github.io.git"
+  },
+  "keywords": [
+    "Weirdo",
+    "We1rdoYT"
+  ],
+  "author": "CoolTrainerEX",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/We1rdoYT/we1rdoyt.github.io/issues"
+  },
+  "homepage": "https://github.com/We1rdoYT/we1rdoyt.github.io#readme"
 }
